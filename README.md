@@ -1,6 +1,7 @@
 # Custom-RAG: Build Your Own Question Answering System
 
 This repository provides a hands-on implementation of a Retrieval Augmented Generation (RAG) system, built from scratch. 
+
 **Learn More:** For a detailed explanation of the concepts and techniques used in this project, please refer to the accompanying blog post: [Building a Simple Question Answering Pipeline from Scratch](https://medium.com/@ayoubkirouane3/building-a-simple-question-answering-pipeline-from-scratch-e2d0da83412f)
 
 ## Getting Started
