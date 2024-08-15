@@ -1,0 +1,6 @@
+sentence-transformers==3.0.1
+transformers==4.42.4
+numpy==1.26.4
+PyPDF2==3.0.1
+scipy==1.13.1
+torch==2.3.1
